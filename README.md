@@ -1,6 +1,6 @@
 SPES Core integration/staging repository
 ======================================
-More information at [myspes.org!](http://myspes.org/)
+More information at [spescoin.com!](http://spescoin.com/)
 
 Visit our ANN thread at [BitcoinTalk](https://bitcointalk.org/index.php?topic=2870436.0)
 
